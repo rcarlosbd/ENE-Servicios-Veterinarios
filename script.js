@@ -49,10 +49,10 @@ contactForm.addEventListener("reset", function () {
   window.location.href = "#inicio";
 });
 
-// Sección de turnos
+// Sección de turnos está comentada por la incorporación de asistente virtual
 // **** Nuevo código bloqueando horas
 
-const nombre = document.querySelector("#nombre");
+/*const nombre = document.querySelector("#nombre");
 const mascota = document.querySelector("#mascota");
 const motivo = document.querySelector("#motivo");
 const fecha = document.querySelector("#fecha");
@@ -191,4 +191,4 @@ function enviar(event) {
   }
 }
 
-btnEnviar.addEventListener("click", enviar);
+btnEnviar.addEventListener("click", enviar);*/

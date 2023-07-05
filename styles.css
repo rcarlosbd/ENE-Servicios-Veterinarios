@@ -444,9 +444,9 @@ li :hover {
 
 /* Estilos de la sección de Preguntas */
 
-#preguntas-frecuentes {
-  background-color: rgb(225, 220, 220);
-}
+/* #preguntas-frecuentes {
+  background-color: #f2f2f2; 
+} */
 
 #preguntas-frecuentes ol,
 #preguntas-frecuentes p {
